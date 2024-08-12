@@ -4,4 +4,6 @@
 - [x] CSS
 - [x] JS
 - [X] PUBLICAÇÃO WEB
-- [ ] SQL
+- [x] SQL
+- [x] ReactJS
+- [x] RestAPI
